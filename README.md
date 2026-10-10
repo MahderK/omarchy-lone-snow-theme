@@ -15,5 +15,3 @@ omarchy theme install https://github.com/MahderK/omarchy-lone-snow-theme
 - `shell.lock.toml` — lock screen colors
 - `unlock.png` / `preview-unlock.png` — Plymouth boot screen logo and preview
 - `backgrounds/` — bundled wallpaper
-
-> Installed themes don't ship Lua, terminal configs, or `vscode.json` — those are regenerated from `colors.toml`, so Neovim, your terminal, and VS Code match automatically.
